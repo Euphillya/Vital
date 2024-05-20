@@ -1,6 +1,9 @@
 buildSrc/.gradle
 buildSrc/build
 
+fabric/.gradle
+fabric/build
+
 paper/.gradle
 paper/build
 
