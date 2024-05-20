@@ -1,6 +1,9 @@
 buildSrc/.gradle
 buildSrc/build
 
+storage/.gradle
+storage/build
+
 paper/.gradle
 paper/build
 
